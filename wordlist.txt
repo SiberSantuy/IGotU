@@ -1,0 +1,10 @@
+admin
+login
+backup
+test
+dev
+config
+robots.txt
+sitemap.xml
+uploads/
+.git/
